@@ -1,0 +1,22 @@
+﻿  Building 'hellodriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\hellodriver.inf
+  Stamping [Version] section with DriverVer=10/24/2019,16.41.49.637
+  Source.c
+  hellodriver.vcxproj -> C:\Users\Elvin\source\repos2019\hellodriver\x64\Debug\hellodriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Elvin\source\repos2019\hellodriver\x64\Debug\hellodriver.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Elvin\source\repos2019\hellodriver\x64\Debug\hellodriver\hellodriver.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Elvin\source\repos2019\hellodriver\x64\Debug\hellodriver\hellodriver.cat
+  
